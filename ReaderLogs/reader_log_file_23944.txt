@@ -1,0 +1,36 @@
+Process: 23944	  State: WAITING  		  Time: 224224578  
+Process: 23944	  State: READING page 4	  Time: 224225250  
+Process: 23944	  State: RELEASED Data: abc  		  Time: 224225937  
+
+Process: 23944	  State: WAITING  		  Time: 224225937  
+Process: 23944	  State: READING page 4	  Time: 224227156  
+Process: 23944	  State: RELEASED Data: abc  		  Time: 224228390  
+
+Process: 23944	  State: WAITING  		  Time: 224228390  
+Process: 23944	  State: READING page 4	  Time: 224229265  
+Process: 23944	  State: RELEASED Data: abc  		  Time: 224230156  
+
+Process: 23944	  State: WAITING  		  Time: 224230156  
+Process: 23944	  State: READING page 3	  Time: 224230734  
+Process: 23944	  State: RELEASED Data: abc  		  Time: 224231312  
+
+Process: 23944	  State: WAITING  		  Time: 224231312  
+Process: 23944	  State: READING page 3	  Time: 224231828  
+Process: 23944	  State: RELEASED Data: abc  		  Time: 224232343  
+
+Process: 23944	  State: WAITING  		  Time: 224232343  
+Process: 23944	  State: READING page 4	  Time: 224232968  
+Process: 23944	  State: RELEASED Data: abc  		  Time: 224233609  
+
+Process: 23944	  State: WAITING  		  Time: 224233609  
+Process: 23944	  State: READING page 3	  Time: 224235000  
+Process: 23944	  State: RELEASED Data: abc  		  Time: 224236406  
+
+Process: 23944	  State: WAITING  		  Time: 224236406  
+Process: 23944	  State: READING page 3	  Time: 224237656  
+Process: 23944	  State: RELEASED Data: abc  		  Time: 224238906  
+
+Process: 23944	  State: WAITING  		  Time: 224238906  
+Process: 23944	  State: READING page 6	  Time: 224240343  
+Process: 23944	  State: RELEASED Data: abc  		  Time: 224241765  
+

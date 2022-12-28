@@ -1,0 +1,3 @@
+﻿  Writer.cpp
+C:\Users\vova_\source\repos\oslab4\Writer\Writer.cpp(19,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Writer.vcxproj -> C:\Users\vova_\source\repos\oslab4\Writer\x64\Debug\Writer.exe

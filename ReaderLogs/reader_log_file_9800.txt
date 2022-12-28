@@ -1,0 +1,32 @@
+Process: 9800	  State: WAITING  		  Time: 224504125  
+Process: 9800	  State: READING page 3	  Time: 224504718  
+Process: 9800	  State: RELEASED Data: abc  		  Time: 224505312  
+
+Process: 9800	  State: WAITING  		  Time: 224505312  
+Process: 9800	  State: READING page 3	  Time: 224506421  
+Process: 9800	  State: RELEASED Data: abc  		  Time: 224507546  
+
+Process: 9800	  State: WAITING  		  Time: 224507546  
+Process: 9800	  State: READING page 3	  Time: 224508890  
+Process: 9800	  State: RELEASED Data: abc  		  Time: 224510234  
+
+Process: 9800	  State: WAITING  		  Time: 224510234  
+Process: 9800	  State: READING page 3	  Time: 224511359  
+Process: 9800	  State: RELEASED Data: abc  		  Time: 224512468  
+
+Process: 9800	  State: WAITING  		  Time: 224512468  
+Process: 9800	  State: READING page 3	  Time: 224513484  
+Process: 9800	  State: RELEASED Data: abc  		  Time: 224514484  
+
+Process: 9800	  State: WAITING  		  Time: 224514484  
+Process: 9800	  State: READING page 3	  Time: 224515515  
+Process: 9800	  State: RELEASED Data: abc  		  Time: 224516531  
+
+Process: 9800	  State: WAITING  		  Time: 224516531  
+Process: 9800	  State: READING page 3	  Time: 224517703  
+Process: 9800	  State: RELEASED Data: abc  		  Time: 224518859  
+
+Process: 9800	  State: WAITING  		  Time: 224518859  
+Process: 9800	  State: READING page 3	  Time: 224519687  
+Process: 9800	  State: RELEASED Data: abc  		  Time: 224520500  
+
