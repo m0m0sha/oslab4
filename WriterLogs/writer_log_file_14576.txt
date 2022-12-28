@@ -1,0 +1,40 @@
+Process: 14576	  State: WAITING  		  Time: 215992062  
+Process: 14576	  State: WRITING page 9	  Time: 215992062  
+Process: 14576	  State: RELEASED  		  Time: 215992625  
+
+Process: 14576	  State: WAITING  		  Time: 215992625  
+Process: 14576	  State: WRITING page 9	  Time: 215993187  
+Process: 14576	  State: RELEASED  		  Time: 215993859  
+
+Process: 14576	  State: WAITING  		  Time: 215993859  
+Process: 14576	  State: WRITING page 9	  Time: 215994546  
+Process: 14576	  State: RELEASED  		  Time: 215995343  
+
+Process: 14576	  State: WAITING  		  Time: 215995343  
+Process: 14576	  State: WRITING page 9	  Time: 215996140  
+Process: 14576	  State: RELEASED  		  Time: 215997093  
+
+Process: 14576	  State: WAITING  		  Time: 215997093  
+Process: 14576	  State: WRITING page 9	  Time: 215998046  
+Process: 14576	  State: RELEASED  		  Time: 215998625  
+
+Process: 14576	  State: WAITING  		  Time: 215998625  
+Process: 14576	  State: WRITING page 9	  Time: 215999187  
+Process: 14576	  State: RELEASED  		  Time: 216000250  
+
+Process: 14576	  State: WAITING  		  Time: 216000250  
+Process: 14576	  State: WRITING page 9	  Time: 216001296  
+Process: 14576	  State: RELEASED  		  Time: 216002578  
+
+Process: 14576	  State: WAITING  		  Time: 216002578  
+Process: 14576	  State: WRITING page 9	  Time: 216003843  
+Process: 14576	  State: RELEASED  		  Time: 216004937  
+
+Process: 14576	  State: WAITING  		  Time: 216004937  
+Process: 14576	  State: WRITING page 9	  Time: 216006031  
+Process: 14576	  State: RELEASED  		  Time: 216006718  
+
+Process: 14576	  State: WAITING  		  Time: 216006718  
+Process: 14576	  State: WRITING page 9	  Time: 216007390  
+Process: 14576	  State: RELEASED  		  Time: 216008109  
+

@@ -1,0 +1,36 @@
+Process: 5772	  State: WAITING  		  Time: 224224531  
+Process: 5772	  State: WRITING page 0	  Time: 224224531  
+Process: 5772	  State: RELEASED  		  Time: 224225203  
+
+Process: 5772	  State: WAITING  		  Time: 224225203  
+Process: 5772	  State: WRITING page 0	  Time: 224225890  
+Process: 5772	  State: RELEASED  		  Time: 224227109  
+
+Process: 5772	  State: WAITING  		  Time: 224227109  
+Process: 5772	  State: WRITING page 0	  Time: 224228343  
+Process: 5772	  State: RELEASED  		  Time: 224229218  
+
+Process: 5772	  State: WAITING  		  Time: 224229218  
+Process: 5772	  State: WRITING page 0	  Time: 224230109  
+Process: 5772	  State: RELEASED  		  Time: 224230671  
+
+Process: 5772	  State: WAITING  		  Time: 224230671  
+Process: 5772	  State: WRITING page 0	  Time: 224231250  
+Process: 5772	  State: RELEASED  		  Time: 224231765  
+
+Process: 5772	  State: WAITING  		  Time: 224231765  
+Process: 5772	  State: WRITING page 0	  Time: 224232281  
+Process: 5772	  State: RELEASED  		  Time: 224232906  
+
+Process: 5772	  State: WAITING  		  Time: 224232906  
+Process: 5772	  State: WRITING page 0	  Time: 224233546  
+Process: 5772	  State: RELEASED  		  Time: 224234937  
+
+Process: 5772	  State: WAITING  		  Time: 224234937  
+Process: 5772	  State: WRITING page 0	  Time: 224236343  
+Process: 5772	  State: RELEASED  		  Time: 224237593  
+
+Process: 5772	  State: WAITING  		  Time: 224237593  
+Process: 5772	  State: WRITING page 0	  Time: 224238843  
+Process: 5772	  State: RELEASED  		  Time: 224240281  
+

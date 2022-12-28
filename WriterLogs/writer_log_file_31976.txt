@@ -1,0 +1,40 @@
+Process: 31976	  State: WAITING  		  Time: 215992015  
+Process: 31976	  State: WRITING page 8	  Time: 215992015  
+Process: 31976	  State: RELEASED  		  Time: 215992578  
+
+Process: 31976	  State: WAITING  		  Time: 215992578  
+Process: 31976	  State: WRITING page 8	  Time: 215993140  
+Process: 31976	  State: RELEASED  		  Time: 215993812  
+
+Process: 31976	  State: WAITING  		  Time: 215993812  
+Process: 31976	  State: WRITING page 8	  Time: 215994500  
+Process: 31976	  State: RELEASED  		  Time: 215995296  
+
+Process: 31976	  State: WAITING  		  Time: 215995296  
+Process: 31976	  State: WRITING page 8	  Time: 215996093  
+Process: 31976	  State: RELEASED  		  Time: 215997046  
+
+Process: 31976	  State: WAITING  		  Time: 215997046  
+Process: 31976	  State: WRITING page 8	  Time: 215998000  
+Process: 31976	  State: RELEASED  		  Time: 215998578  
+
+Process: 31976	  State: WAITING  		  Time: 215998578  
+Process: 31976	  State: WRITING page 8	  Time: 215999156  
+Process: 31976	  State: RELEASED  		  Time: 216000203  
+
+Process: 31976	  State: WAITING  		  Time: 216000203  
+Process: 31976	  State: WRITING page 8	  Time: 216001250  
+Process: 31976	  State: RELEASED  		  Time: 216002531  
+
+Process: 31976	  State: WAITING  		  Time: 216002531  
+Process: 31976	  State: WRITING page 8	  Time: 216003796  
+Process: 31976	  State: RELEASED  		  Time: 216004890  
+
+Process: 31976	  State: WAITING  		  Time: 216004890  
+Process: 31976	  State: WRITING page 8	  Time: 216005984  
+Process: 31976	  State: RELEASED  		  Time: 216006671  
+
+Process: 31976	  State: WAITING  		  Time: 216006671  
+Process: 31976	  State: WRITING page 8	  Time: 216007343  
+Process: 31976	  State: RELEASED  		  Time: 216008062  
+

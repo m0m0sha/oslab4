@@ -1,0 +1,32 @@
+Process: 9064	  State: WAITING  		  Time: 224504171  
+Process: 9064	  State: WRITING page 9	  Time: 224504171  
+Process: 9064	  State: RELEASED  		  Time: 224504750  
+
+Process: 9064	  State: WAITING  		  Time: 224504750  
+Process: 9064	  State: WRITING page 7	  Time: 224505343  
+Process: 9064	  State: RELEASED  		  Time: 224506453  
+
+Process: 9064	  State: WAITING  		  Time: 224506453  
+Process: 9064	  State: WRITING page 9	  Time: 224507578  
+Process: 9064	  State: RELEASED  		  Time: 224508921  
+
+Process: 9064	  State: WAITING  		  Time: 224508921  
+Process: 9064	  State: WRITING page 7	  Time: 224510265  
+Process: 9064	  State: RELEASED  		  Time: 224511390  
+
+Process: 9064	  State: WAITING  		  Time: 224511390  
+Process: 9064	  State: WRITING page 9	  Time: 224512500  
+Process: 9064	  State: RELEASED  		  Time: 224513515  
+
+Process: 9064	  State: WAITING  		  Time: 224513515  
+Process: 9064	  State: WRITING page 8	  Time: 224514515  
+Process: 9064	  State: RELEASED  		  Time: 224515546  
+
+Process: 9064	  State: WAITING  		  Time: 224515546  
+Process: 9064	  State: WRITING page 8	  Time: 224516562  
+Process: 9064	  State: RELEASED  		  Time: 224517734  
+
+Process: 9064	  State: WAITING  		  Time: 224517734  
+Process: 9064	  State: WRITING page 9	  Time: 224518890  
+Process: 9064	  State: RELEASED  		  Time: 224519718  
+

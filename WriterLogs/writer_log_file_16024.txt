@@ -1,0 +1,36 @@
+Process: 16024	  State: WAITING  		  Time: 224224593  
+Process: 16024	  State: WRITING page 6	  Time: 224224593  
+Process: 16024	  State: RELEASED  		  Time: 224225265  
+
+Process: 16024	  State: WAITING  		  Time: 224225265  
+Process: 16024	  State: WRITING page 6	  Time: 224225953  
+Process: 16024	  State: RELEASED  		  Time: 224227171  
+
+Process: 16024	  State: WAITING  		  Time: 224227171  
+Process: 16024	  State: WRITING page 5	  Time: 224228390  
+Process: 16024	  State: RELEASED  		  Time: 224229281  
+
+Process: 16024	  State: WAITING  		  Time: 224229281  
+Process: 16024	  State: WRITING page 5	  Time: 224230171  
+Process: 16024	  State: RELEASED  		  Time: 224230734  
+
+Process: 16024	  State: WAITING  		  Time: 224230734  
+Process: 16024	  State: WRITING page 3	  Time: 224231312  
+Process: 16024	  State: RELEASED  		  Time: 224231828  
+
+Process: 16024	  State: WAITING  		  Time: 224231828  
+Process: 16024	  State: WRITING page 6	  Time: 224232343  
+Process: 16024	  State: RELEASED  		  Time: 224232968  
+
+Process: 16024	  State: WAITING  		  Time: 224232968  
+Process: 16024	  State: WRITING page 4	  Time: 224233609  
+Process: 16024	  State: RELEASED  		  Time: 224235000  
+
+Process: 16024	  State: WAITING  		  Time: 224235000  
+Process: 16024	  State: WRITING page 6	  Time: 224236390  
+Process: 16024	  State: RELEASED  		  Time: 224237656  
+
+Process: 16024	  State: WAITING  		  Time: 224237656  
+Process: 16024	  State: WRITING page 3	  Time: 224238906  
+Process: 16024	  State: RELEASED  		  Time: 224240343  
+
