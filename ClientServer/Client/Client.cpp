@@ -12,21 +12,17 @@ int main()
 	ZeroMemory(&Overlapped, sizeof(Overlapped));
 	pipe_name = "\\\\.\\pipe\\mypipe";
 	pipe = CreateFileA(pipe_name.c_str(), GENERIC_READ | GENERIC_WRITE, 0, NULL, OPEN_EXISTING, FILE_ATTRIBUTE_NORMAL, NULL);
+	if (pipe == INVALID_HANDLE_VALUE)
+	{
+		cout << "Error " << GetLastError() << ".\n";
+		SetLastError(0);
+	}
 	cout << "Data from server:\n\n";
-	BOOL get_data;
 	while (true)
 	{
-		get_data = ReadFileEx(pipe, data, 512, &Overlapped, CompletionRoutine);
-		if (get_data && pipe != INVALID_HANDLE_VALUE)
-		{
-			cout << data << endl << endl;
-			SleepEx(INFINITE, TRUE);
-		}
-		else
-		{
-			cout << "Client stopped\n";
-			break;
-		}
+		ReadFileEx(pipe, data, 512, &Overlapped, CompletionRoutine);
+		SleepEx(INFINITE, TRUE);
+		cout << data << endl << endl;
 	}
 	return 0;
 }
