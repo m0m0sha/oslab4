@@ -7,7 +7,7 @@ int main()
 {
 	HANDLE pipe;
 	string pipe_name;
-	char* data = new char[512];
+	char* data = new char[MAX_PATH];
 	OVERLAPPED Overlapped;
 	ZeroMemory(&Overlapped, sizeof(Overlapped));
 	pipe_name = "\\\\.\\pipe\\mypipe";
